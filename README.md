@@ -80,12 +80,6 @@ Platforms should empower developers — not slow them down.
 
 ---
 
-## GitHub Activity
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Peechari-Chandrasekhar-Reddy&show_icons=true)
-
----
-
 ## Connect
 
 I am open to collaboration on AI infrastructure, platform engineering, and cloud-native system design.
